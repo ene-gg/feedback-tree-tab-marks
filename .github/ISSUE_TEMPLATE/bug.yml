@@ -16,11 +16,3 @@ body:
       description: What went wrong? What did you want to happen? How do I reproduce this?
     validations:
       required: true
-  - type: textarea
-    id: media
-    attributes:
-      label: Screenshots or video
-      description: Drag and drop images or a video here, or paste from your clipboard. Really helps!
-      placeholder: Drop files here or paste a screenshot (Ctrl/Cmd+V)
-    validations:
-      required: false
